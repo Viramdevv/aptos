@@ -16,4 +16,6 @@ The vision of this project is to create a decentralized and trustless career gui
 
 ## Contract Details
 - **Contract Address:**  0xc12968fbd684b6c208679b8bf613e1b54b32ec2e1053ccae5bb9b520ee8e9a12
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b88947a5-84a0-44a5-bca3-95b335043bab" />
+
 
